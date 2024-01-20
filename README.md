@@ -26,7 +26,7 @@ Indian Census 2011 Data Analysis - https://github.com/Aman0441/projects/blob/mai
 
  Aim - Here we analysis our Indian Census data of 2011 for finding the total poplation in state wise state. Which help us to analysis the growth rate of our country.In this project firstly, import our csv file in jupyternote book and then we analysis or data by sing different funtions.
 
- Netflix Dataset - Netflix Dataset.ipynb
+ Netflix Dataset - https://github.com/Aman0441/projects/blob/main/Netflix%20Dataset.ipynb
 
  Aim - Here we analysis Netflix dataset finding analysis that which type of content is mostly watched in this platform and finding the interest of the viewers.For the analysis we import our csv file in jupyternote book and then we analysis or data by sing different funtions.
 
