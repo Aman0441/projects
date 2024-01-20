@@ -26,5 +26,10 @@ code - library :- pandas , numpy , matplotlib, seaborn.
        functions :- head(), tail(), shape, isnull(), isnull().sum(), len(), drop(),duplicated(),describe, groupby etc. 
        charts :-barplot, counterplot, heatmap , scatterplot.
 
+Indian Census 2011 Data Analysis - https://github.com/Aman0441/projects/blob/main/Indian%20Census%202011.ipynb
+
+ Aim - Here we analysis our Indian Census data of 2011 for finding the total poplation in state wise state. Which help us to analysis the growth rate of our country.
+
+ Working- Working is that we import or csv file in jupyternote book and then we analysis or data by sing different funtions.
 
 
