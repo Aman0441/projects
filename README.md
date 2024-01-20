@@ -30,6 +30,8 @@ Indian Census 2011 Data Analysis - https://github.com/Aman0441/projects/blob/mai
 
  Aim - Here we analysis Netflix dataset finding analysis that which type of content is mostly watched in this platform and finding the interest of the viewers.For the analysis we import our csv file in jupyternote book and then we analysis or data by sing different funtions.
 
+Diwali Sales Analysis - https://github.com/Aman0441/projects/blob/main/diwali%20sales%20data.ipynb
 
+Aim - In this 
 
 
