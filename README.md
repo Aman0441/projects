@@ -12,6 +12,11 @@ Python Projects
 
 Car Data Analysis - https://github.com/Aman0441/projects/blob/main/Car%20data%20Analysis.ipynb
 
+Aim : Here we import our car sales data to analysis the sales of the car in the financial year for finding the growth in the car industry. 
+
+Working of the Project - Fistly, i import csv car sales file in the jupyter note by using the pandas library. Then we use different functions like head(), shape,isnull(), sum(),valuecount(),mean() ,median() ,mode()
+etc. for cleaning, analysing and transforming our data .
+
 
 
 
