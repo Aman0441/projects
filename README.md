@@ -10,6 +10,10 @@ Portfolio Projects
 
 Python Projects
 
+Car Data Analysis - https://github.com/Aman0441/projects/blob/main/Car%20data%20Analysis.ipynb
+
+
+
 
 
 
