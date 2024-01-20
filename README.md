@@ -16,7 +16,7 @@ Aim : Here we import our car sales data to analysis the sales of the car in the 
 
 Working - Fistly, i import csv car sales file in the jupyter note by using the pandas library. Then we use different functions like head(), shape,isnull(), sum(),valuecount(),mean() ,median() ,mode()etc. for cleaning, analysing and transforming our data .
 
-IMDB Movies Data Aanlysis - 
+IMDB Movies Data Aanlysis - https://github.com/Aman0441/projects/blob/main/IMDB_Movie%20_Data.ipynb
 
 Aim - Here we Analysis about the movies data like what is rating , highest watched movies , which movies earm most etc. etc. 
 
