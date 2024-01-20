@@ -45,3 +45,6 @@ I got Certificate from
 - Python From IBM Data Science Professional  Certificate - AUG 2023
 
 Contact 
+linkedin i'd - www.linkedin.com/in/aman-rathore2003
+email i'd - amanrathore3927@gmail.com
+
