@@ -32,6 +32,4 @@ Indian Census 2011 Data Analysis - https://github.com/Aman0441/projects/blob/mai
 
 Diwali Sales Analysis - https://github.com/Aman0441/projects/blob/main/diwali%20sales%20data.ipynb
 
-Aim - In this 
-
-
+Aim - In this project our goal is to find the diwali sales of country on the different parameters like state wise ,gender wise , age wise, and find the that which industry earn more this diwali like clothes, IT, Sports etc. .In this project i upload data set in the juternotebook and then apply different libraries and function , charts and analysis our dataset.
