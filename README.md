@@ -14,11 +14,17 @@ Car Data Analysis - https://github.com/Aman0441/projects/blob/main/Car%20data%20
 
 Aim : Here we import our car sales data to analysis the sales of the car in the financial year for finding the growth in the car industry. 
 
-Working of the Project - Fistly, i import csv car sales file in the jupyter note by using the pandas library. Then we use different functions like head(), shape,isnull(), sum(),valuecount(),mean() ,median() ,mode()
-etc. for cleaning, analysing and transforming our data .
+Working - Fistly, i import csv car sales file in the jupyter note by using the pandas library. Then we use different functions like head(), shape,isnull(), sum(),valuecount(),mean() ,median() ,mode()etc. for cleaning, analysing and transforming our data .
 
+IMDB Movies Data Aanlysis - 
 
+Aim - Here we Analysis about the movies data like what is rating , highest watched movies , which movies earm most etc. etc. 
 
+working - In the project we analysis our data by using different library and function of finding the exact view from data. 
+
+code - library :- pandas , numpy , matplotlib, seaborn.
+       functions :- head(), tail(), shape, isnull(), isnull().sum(), len(), drop(),duplicated(),describe, groupby etc. 
+       charts :-barplot, counterplot, heatmap , scatterplot.
 
 
 
