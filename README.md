@@ -37,3 +37,11 @@ Aim - In this project our goal is to find the diwali sales of country on the dif
 Student_Score Data Analysis - https://github.com/Aman0441/projects/blob/main/student_score.ipynb
 
 Aim - Here we find the student score and analysis what are the situations in which student score increase or decrease.In this project we use differents library and statistical function which give us an exact report form the data.
+
+Certificate 
+
+I got Certificate from 
+- Google Data Analytics Professional Certificate Jan 2023
+- Python From IBM Data Science Professional  Certificate - AUG 2023
+
+Contact 
